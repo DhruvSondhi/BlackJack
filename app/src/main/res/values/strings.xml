@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="howToPlay">
+        1. Aim is to reach as close as to sum of cards being 21\n\n
+        2. One who reaches closest to 21 is the winner\n\n
+        3. Click on HIT button to increase your sum of cards value \n\n
+        4. Incase you decide not to pickup a card to increase your total .... click on STAND button to withdraw your chance\n\n
+        5. CHECK button declares the winner\n\n
+        6. If you click on HIT button and your card total goes over and above 21 ... the Dealer wins the game and you are busted out\n\n
+        7. The Dealers score(Sum of Card Value) is hidden\n\n
+        8. Click on RESTART button to start a new game
+    </string>
+    <string name="startDescription">LETS PLAY \nBLACK JACK</string>
+</resources>
